@@ -1,0 +1,28 @@
+{
+  "name": "better-app-config",
+  "version": "0.1.0",
+  "description": "Better app config manager",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deHugo/better-app-config.git"
+  },
+  "keywords": [
+    "config",
+    "app",
+    "express"
+  ],
+  "author": "Daniel McQuiston <daniel.pro@dehugo.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deHugo/better-app-config/issues"
+  },
+  "homepage": "https://github.com/deHugo/better-app-config#readme"
+}
